@@ -68,3 +68,5 @@ let friends = ["ahmed", "mahmoud", "saeed"];
 let [x, y, z] = friends
 console.log(x);
 
+// ! shallow copy and deep copy and map 
+
